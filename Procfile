@@ -1,0 +1,1 @@
+tick: bundle exec ruby tick-tock.rb 
